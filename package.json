@@ -1,7 +1,7 @@
 {
   "name": "google-books-search",
   "version": "1.0.0",
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "description": "",
   "main": "server.js",
   "dependencies": {
     "axios": "^0.19.2",
