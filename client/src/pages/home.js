@@ -48,7 +48,6 @@ class Home extends Component {
     API.saveBook({
       googleId: book.id,
       title: book.volumeInfo.title,
-      subtitle: book.volumeInfo.subtitle,
       link: book.volumeInfo.infoLink,
       authors: book.volumeInfo.authors,
       description: book.volumeInfo.description,
@@ -87,7 +86,6 @@ class Home extends Component {
                     <Book
                       key={book.id}
                       title={book.volumeInfo.title}
-                      subtitle={book.volumeInfo.subtitle}
                       link={book.volumeInfo.infoLink}
                       authors={book.volumeInfo.authors.join(", ")}
                       description={book.volumeInfo.description}
