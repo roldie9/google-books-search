@@ -1,11 +1,14 @@
 # Google Books Search (React)
 
 ## Description
-In this activity, you'll create a new React-based Google Books Search app. This assignment requires you to create React components, work with helper/util functions, and utilize React lifecycle methods to query and display books based on user searches. You'll also use Node, Express and MongoDB so that users can save books to review or purchase later.
+This React app will allow the user to search for books and save them for later. Once saved the user can see all previously saved books and delete them from the list if desired.
 
 ## Deployed App Link
 
 (http://tranquil-stream-27357.herokuapp.com/)
+
+## App Preview
+
         
 ## Table of Contents
         
@@ -47,7 +50,7 @@ npm start
 
 ## License
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: ODbL](https://img.shields.io/badge/License-PDDL-brightgreen.svg)](https://opendatacommons.org/licenses/pddl/)
         
 
 ## Questions & Contributing
