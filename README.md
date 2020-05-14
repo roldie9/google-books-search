@@ -13,7 +13,7 @@ In this activity, you'll create a new React-based Google Books Search app. This 
         
 * [Usage](#usage)
 
-* [Technologies Used] (#technologies)
+* [Technologies] (#technologies)
         
 * [License](#license)
         
