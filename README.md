@@ -8,7 +8,11 @@ This React app will allow the user to search for books and save them for later. 
 (http://tranquil-stream-27357.herokuapp.com/)
 
 ## App Preview
+![gbs_homepage](https://user-images.githubusercontent.com/58443430/81997651-0c6ae380-9616-11ea-9622-d802f5cdc676.png)
 
+![gbs_books](https://user-images.githubusercontent.com/58443430/81997669-1987d280-9616-11ea-8552-9bfc4dc7f7cb.png)
+
+![gbs_saved](https://user-images.githubusercontent.com/58443430/81997688-2ad0df00-9616-11ea-917a-7841f5a85450.png)
         
 ## Table of Contents
         
